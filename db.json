@@ -1,0 +1,22 @@
+{
+    "cites": [
+        {
+            "id": 1,
+            "nom": "Pep",
+            "familiar": "Pepet",
+            "telefon": "612345678",
+            "cita": "direcció",
+            "motiu": "descripció",
+            "data": "2025-01-10"
+        },
+        {
+            "id": 2,
+            "nom": "Pepa",
+            "familiar": "Pepeta",
+            "telefon": "612345678",
+            "cita": "direcció",
+            "motiu": "descripció",
+            "data": "2025-01-10"
+        }
+    ]
+}
