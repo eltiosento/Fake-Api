@@ -1,20 +1,59 @@
 {
   "cites": [
-      {
-          "id": 1,
-          "nom": "Pep",
-          "familiar": "Pepet",
-          "telefon": "612345678",
-          "cita": "direcció",
-          "motius": [
-              "descripció inicial",
-              "seguiment acadèmic"
-          ],
-          "data": "2025-01-10",
-          "tutoria": {
-              "tutor": "Laura",
-              "curs": "3r A"
-          }
+    {
+      "id": "1",
+      "nom": "Pep",
+      "familiar": "Pepet",
+      "telefon": "612345678",
+      "cita": "Orientació",
+      "motius": [],
+      "data": "2025-01-10",
+      "tutoria": {
+        "tutor": "",
+        "curs": ""
       }
+    },
+    {
+      "id": "b097",
+      "nom": "Pep",
+      "familiar": "",
+      "telefon": "",
+      "cita": "Direcció",
+      "motius": [],
+      "data": "2025-01-23",
+      "tutoria": {
+        "tutor": "",
+        "curs": ""
+      }
+    },
+    {
+      "id": "c836",
+      "nom": "Josep",
+      "familiar": "Josep",
+      "telefon": "1316549687987",
+      "cita": "Secretaria",
+      "motius": [
+        "Vol web wafilia",
+        "Parlar amb Rosana"
+      ],
+      "data": "2025-01-28",
+      "tutoria": {
+        "tutor": "",
+        "curs": ""
+      }
+    },
+    {
+      "id": "e4df",
+      "nom": "Prova",
+      "familiar": "",
+      "telefon": "",
+      "cita": "Direcció",
+      "motius": [],
+      "data": "2025-01-14",
+      "tutoria": {
+        "tutor": "",
+        "curs": ""
+      }
+    }
   ]
 }
